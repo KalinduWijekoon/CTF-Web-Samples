@@ -99,7 +99,7 @@
 </head>
 <body>
     <video autoplay loop id="myvideo">
-        <source src="imgz/World of Warships Main Menu Video August 2017 Update - Official Game Release (No Markings)-1080.mp4" type="video/mp4">
+        <source src="imgz/yourvideo" type="video/mp4">
         Your browser does not support the <code>video</code> tag.
     </video>
     <div class="content">
